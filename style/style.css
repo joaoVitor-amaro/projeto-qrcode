@@ -8,7 +8,7 @@
 body {
     font-family: 'Outfit', sans-serif;
     background-color: hsl(212, 45%, 89%);
-    min-height: 93vh;
+    min-height: 92vh;
 }
 
 header {
@@ -19,7 +19,7 @@ header > p {
 }
 
 main {
-    min-height: 93vh;
+    min-height: 92vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -28,7 +28,7 @@ main {
 
 main > section#container {
     background-color: white;
-    max-width: 20rem;
+    max-width: 20em;
     padding: 16px;
     border-radius: 1.2em;
     text-align: center;
